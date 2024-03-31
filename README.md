@@ -48,3 +48,7 @@ Contributions are welcome! If you would like to contribute to this project, feel
 ## License
 
 This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
+
+## Contact
+
+[Mustafa Kandemir] - mouhammed.kandemir@gmail.com
